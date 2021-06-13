@@ -1,0 +1,4 @@
+
+A.Little endian:78 		Big endian:12
+B.Little endian:78 56 		Big endian:12 34
+C.Little endian:78 56 34	Big endian:12 34 56

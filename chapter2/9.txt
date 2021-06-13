@@ -1,0 +1,16 @@
+
+A.
+	Red	Green	Blue
+Black	off	off	off
+Blue	off	off	on
+Green	off	on	off
+Cyan	off	on	on
+Red	on	off	off
+Magenta	on	off	on
+Yellow	on	on	off
+White	on	on	on
+
+B. 
+Cyan
+Green
+Blue

@@ -1,0 +1,8 @@
+A. k+1
+B. Because they first XOR with same values gives 0 then, assigned to 
+	a[k+1](where pointer pointing) value which is 0 and other
+	 operations will refer 0 and assign 0.
+
+C. change <= to <
+
+
