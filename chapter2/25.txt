@@ -1,0 +1,4 @@
+-1 can be casted(sign to unsign) to high number in unsigned.
+that lead to the length is higher than its real length when comparing.
+
+easy fix will be chaning i <= length - 1 to i < length

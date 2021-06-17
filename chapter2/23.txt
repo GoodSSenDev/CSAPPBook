@@ -1,0 +1,9 @@
+W		fun1(W)		func2(W)
+0x00000076	0x00000076	0x00000076
+0x87654321	0x00000021	0x00000021
+0x000000C9	0x000000C9	0xFFFFFFC9
+0xEDCBA987	0x00000087	0xFFFFFF87
+
+
+fun1 extract the lower 8 bits of the arguments and gives a range of 0 ~ 255.
+fun2 extract the lower 8 bits of the arguments and gives a range of -128 ~ 127.
