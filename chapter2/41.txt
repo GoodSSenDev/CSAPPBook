@@ -1,0 +1,3 @@
+Assuming that addition and subtraction habe the same performance,
+the rule is to choose form A when n = m,
+either form when n = m + 1, and form B when n > m + 1.

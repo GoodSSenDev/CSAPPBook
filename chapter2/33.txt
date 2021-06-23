@@ -1,0 +1,7 @@
+	x		4x
+Hex	Decimal		Decimal	Hex
+2	2		-2	E
+3	3		-3
+9	-7		
+B	-5		
+C	-4		

@@ -1,0 +1,7 @@
+A. No since a malloc function havig a 32-bit unsigned 
+number as its argument, and even with a 64bit unsigned number
+the function will casts to the 32-bit unsigned number.
+
+B. by checking an overflow happends in when ele_cnt times 
+ele_size multiplication.
+	when overflow happends the function returns null and abort.
